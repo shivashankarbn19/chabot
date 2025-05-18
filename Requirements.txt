@@ -1,0 +1,4 @@
+streamlit
+        langchain
+        langchain-google-genai
+        google-colab # Needed if you keep userdata.get() for API key
