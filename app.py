@@ -1,6 +1,6 @@
 # %%
 # Ensure the necessary libraries are installed
-!pip install langchain-google-genai streamlit --quiet
+# !pip install langchain-google-genai streamlit --quiet
 # (These installs are usually handled by the requirements.txt file in deployment)
 
 import os
