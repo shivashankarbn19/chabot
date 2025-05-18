@@ -1,1 +1,1 @@
-# chabot
+# gemini-chatbot
